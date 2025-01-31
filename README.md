@@ -85,7 +85,7 @@ This library is distributed under a custom license. Redistribution and use in so
 ## Author and Contact
 
 - **Author**: Arshita Sharma
-- **Contact**: [arshita@example.com](mailto:arshita@example.com)
+- **Contact**: [arshita@example.com](mailto:asharm42@vols.utk.edu)
 
 For questions, suggestions, or contributions, feel free to reach out!
 
